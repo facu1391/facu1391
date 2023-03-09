@@ -1,5 +1,3 @@
-> http://localhost:8080/facundo/index.html
-
 # Facundo Rafael nuñez
 
 ## 🚀 Acerca de mí
