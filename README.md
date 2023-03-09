@@ -8,7 +8,7 @@ Soy una persona que aprende rápido y tengo muchas ganas de crecer dentro del Mu
 
 También tengo experiencia trabajando en la oficina de grooming de **La Provincia de La Rioja, Argentina** 2018-2020 detectando perfiles falsos y de amenaza a menores
 
-## Tabla de 5 comandos de la terminal
+## Tabla de 5 comandos de la terminal que mas me gustan
 
 | Comando | Descripcion |
 | ------ | ------ |
@@ -18,7 +18,7 @@ También tengo experiencia trabajando en la oficina de grooming de **La Provinci
 | CMD |  Inicia una nueva instancia del intérprete de comandos de Windows | 
 | Assoc | La mayoría de los archivos de Windows están asociados con un programa específico asignado para abrir el archivo por defecto | 
 
-## Tabla de 2 comandos alias
+## Tabla de 2 comandos alias que mas me gustan
 | Comando | Esquivalente |
 | ------ | ------ |
 | gst | git status | 
