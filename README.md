@@ -35,4 +35,5 @@ También tengo experiencia trabajando en la oficina de grooming de **La Provinci
 | gst | git status | 
 | gcam | git commit -a -m | 
 
-##¡Gracias por considerar mi perfil! Si está interesado en mi perfil, no dude en ponerse en contacto conmigo a través de mi correo electrónico: facurael@gmail.com
+## Contacto
+¡Gracias por considerar mi perfil! Si está interesado en mi perfil, no dude en ponerse en contacto conmigo a través de mi correo electrónico: facurael@gmail.com
