@@ -4,9 +4,9 @@ Tengo 31 años y estoy buscando poder trabajar en el Mundo IT
 ## Experiencia y Habilidades
 
 Tengo experiencia en el desarrollo de aplicaciones web, tanto del lado del servidor como del lado del cliente, y he trabajado con varias tecnologías y lenguajes de programación como:
- -Lenguajes del lado del servidor: Node.js, Java, Python.
- -Lenguajes del lado del cliente: HTML, CSS, JavaScript.
- -Bases de datos: MySQL, PostgreSQL, MongoDB.
+ * Lenguajes del lado del servidor: Node.js, Java, Python.
+ * Lenguajes del lado del cliente: HTML, CSS, JavaScript.
+ * Bases de datos: MySQL, PostgreSQL, MongoDB.
 
 Soy un apasionado de la tecnología y me encanta estar al tanto de las últimas tendencias en programación. Me gusta trabajar en equipo y compartir mis conocimientos con mis colegas para mejorar la calidad del trabajo.
 
