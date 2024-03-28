@@ -1,47 +1,39 @@
-# ¡Hola! Soy FACUNDO RAFAEL NUÑEZ y soy un desarrollador full stack.
+# Soy FACUNDO RAFAEL NUÑEZ, desarrollador Web full stack.
+
+## 🚀 Acerca de mí
+Soy de La Rioja, Argentina. Tengo 2 años de experiencia como Desarrollador Web fullstack. Estoy especializado en el desarrollo de aplicaciones web únicas.
 
 ## Experiencia y Habilidades
 
-Tengo experiencia en el desarrollo de aplicaciones web, tanto del lado del servidor como del lado del cliente, y he trabajado con varias tecnologías y lenguajes de programación como:
- * Lenguajes del lado del servidor: Node.js, Java, Python.
- <i class="fa-brands fa-js"></i>   <i class="fa-brands fa-python"></i>  <i class="fa-brands fa-java"></i> 
- * Lenguajes del lado del cliente: HTML, CSS, JavaScript.
- <i class="fa-brands fa-js"></i>   <i class="fa-brands fa-html5"></i>  <i class="fa-brands fa-css3-alt"></i>
- * Bases de datos: MySQL, PostgreSQL, MongoDB.
- 
+Tengo experiencia en el desarrollo de aplicaciones web, tanto del lado del servidor como del cliente, y he trabajado con varias tecnologías y lenguajes de programación, incluyendo:
 
-Soy un apasionado de la tecnología y me encanta estar al tanto de las últimas tendencias en programación. Me gusta trabajar en equipo y compartir mis conocimientos con mis colegas para mejorar la calidad del trabajo.
+* Lenguajes del lado del servidor: Node.js, Python.
+   - ![](https://img.icons8.com/color/48/000000/nodejs.png)![](https://img.icons8.com/color/48/000000/python.png)
+* Lenguajes del lado del cliente: HTML, CSS, JavaScript.
+   - ![](https://img.icons8.com/color/48/000000/html-5.png) ![](https://img.icons8.com/color/48/000000/css3.png) ![](https://img.icons8.com/color/48/000000/javascript.png)
+* Frameworks y herramientas: Tailwind CSS, Bootstrap, React.js, Next.js, Express.js, Astro.
+   - ![](https://img.icons8.com/color/48/000000/tailwind-css.png) ![](https://img.icons8.com/color/48/000000/bootstrap.png) ![](https://img.icons8.com/officexs/48/000000/react.png) ![](https://img.icons8.com/color/48/000000/next-js.png) ![](https://img.icons8.com/offices/48/000000/express.png) ![](https://img.icons8.com/color/48/000000/astro.png)
+* Bases de datos: MySQL, MongoDB, Firebase.
+   - ![](https://img.icons8.com/office/40/000000/mysql.png) ![](https://img.icons8.com/color/48/000000/mongodb.png) ![](https://img.icons8.com/color/48/000000/firebase.png)
+* Procesamiento de datos con Python.
+   - ![](https://img.icons8.com/color/48/000000/python.png)
+  
+Soy un apasionado de la tecnología y me encanta estar al tanto de las últimas tendencias en programación. Disfruto trabajar en equipo y compartir mis conocimientos con mis colegas para mejorar la calidad del trabajo.
 
-## Proyectos
-Soy programador junior, mi funcion es **fullStack Develoloper** Tengo experencia en algunos proyectos personales fullstack con una app de administracion de pacientes de veterinaria entre otros.
-En mi tiempo libre, me gusta aprender cosas nuevas, resolver problemas y participar en proyectos de código abierto.
+# Proyectos
 
-## 🚀 Acerca de mí
-Soy una persona que aprende rápido y tengo muchas ganas de crecer dentro del Mundo IT y con muchas ganas de seguir aprendiendo nuevos lenguajes de programación, responsable, honesto y muy estricto con los horarios.
+Como programador junior, he participado en proyectos fullstack:
 
-También tengo experiencia trabajando en la oficina de grooming de **La Provincia de La Rioja, Argentina** 2018-2020 detectando perfiles falsos y de amenaza a menores
-
-## Tabla de 5 comandos de la terminal que mas me gustan
-
-| Comando | Descripcion |
-| ------ | ------ |
-| Ping | Prueba el estado de la comunicación del host local con uno o varios equipos remotos de una red IP | 
-| Format | Formatea un disco interno o externo para su uso en Windows | 
-|Help | Una buena forma de comenzar es mediante el comando “help” que nos mostrará una lista con todos los comandos disponibles | 
-| CMD |  Inicia una nueva instancia del intérprete de comandos de Windows | 
-| Assoc | La mayoría de los archivos de Windows están asociados con un programa específico asignado para abrir el archivo por defecto | 
-
-## Tabla de 2 comandos alias que mas me gustan
-| Comando | Esquivalente |
-| ------ | ------ |
-| gst | git status | 
-| gcam | git commit -a -m | 
+* Leadpages - ClinchHR: tuve experiencia como freelance para la empresa ClichHr, donde trabajé con un equipo completo en donde mi rol fue Frontend.
+* CHATBEAT: También tuve una excelente experiencia en No Country, donde tuve la dicha de trabajar en un equipo sumamente completo. Contamos con un equipo de Backend, Frontend, Diseño UI/UX, QA y Project Manager.
+* Una de mis experiencias personales incluye el desarrollo de una aplicación para administrar pacientes de veterinaria. 
 
 ## Contacto
-¡Gracias por considerar mi perfil! Si está interesado en mi perfil, no dude en ponerse en contacto conmigo a través de mi correo electrónico: 
-<i class="fa-brands fa-instagram"></i>  https://www.instagram.com/facundorn
-<i class="fa-brands fa-square-twitter"></i>  https://twitter.com/Facundo_97011
-<i class="fa-brands fa-linkedin-in"></i>  https://www.linkedin.com/in/facundo-nu%C3%B1ez-380b9b234
-<i class="fa-solid fa-envelope"></i>  facurael@gmail.com
-<i class="fa-brands fa-whatsapp"></i> 3804249741
 
+¡Gracias por considerar mi perfil! Si estás interesado, no dudes en contactarme a través de:
+
+* Correo electrónico: facurael@gmail.com
+* Instagram: [Facundo_RN](https://www.instagram.com/facundorn)
+* Twitter: [@Facundo_97011](https://twitter.com/Facundo_97011)
+* LinkedIn: [Facundo Nuñez](https://www.linkedin.com/in/facundo-nu%C3%B1ez-380b9b234)
+* WhatsApp: [+54 380 4249741](https://wa.me/543804249741)
