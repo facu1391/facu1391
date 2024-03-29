@@ -32,8 +32,10 @@ Como programador junior, he participado en proyectos fullstack:
 
 ¡Gracias por considerar mi perfil! Si estás interesado, no dudes en contactarme a través de:
 
-* [![](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.instagram.com/facundorn)
-* [![](https://img.icons8.com/color/48/000000/twitter--v1.png)](https://twitter.com/Facundo_97011)
-* [![](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/facundo-nu%C3%B1ez-380b9b234)
-* [![](https://img.icons8.com/color/48/000000/whatsapp.png)](https://wa.me/543804249741)
-* [![](https://img.icons8.com/color/48/000000/gmail-new.png)](mailto:facurael@gmail.com)
+<div style="display: flex; gap: 10px;">
+    <a href="https://www.instagram.com/facundorn"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"></a>
+    <a href="https://twitter.com/Facundo_97011"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter"></a>
+    <a href="https://www.linkedin.com/in/facundo-nu%C3%B1ez-380b9b234"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"></a>
+    <a href="https://wa.me/543804249741"><img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp"></a>
+    <a href="mailto:facurael@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail"></a>
+</div>
