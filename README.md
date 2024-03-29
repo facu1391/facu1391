@@ -8,7 +8,7 @@ Soy de La Rioja, Argentina. Tengo 2 años de experiencia como Desarrollador Web 
 Tengo experiencia en el desarrollo de aplicaciones web, tanto del lado del servidor como del cliente, y he trabajado con varias tecnologías y lenguajes de programación, incluyendo:
 
 * Lenguajes del lado del servidor: Node.js, Python.
-   - ![](https://img.icons8.com/color/48/000000/nodejs.png)![](https://img.icons8.com/color/48/000000/python.png)
+   - ![](https://img.icons8.com/color/48/000000/nodejs.png) ![](https://img.icons8.com/color/48/000000/python.png)
 * Lenguajes del lado del cliente: HTML, CSS, JavaScript.
    - ![](https://img.icons8.com/color/48/000000/html-5.png) ![](https://img.icons8.com/color/48/000000/css3.png) ![](https://img.icons8.com/color/48/000000/javascript.png)
 * Frameworks y herramientas: Tailwind CSS, Bootstrap, React.js, Next.js, Express.js, Astro.
@@ -32,8 +32,8 @@ Como programador junior, he participado en proyectos fullstack:
 
 ¡Gracias por considerar mi perfil! Si estás interesado, no dudes en contactarme a través de:
 
-* Correo electrónico: facurael@gmail.com
-* Instagram: [Facundo_RN](https://www.instagram.com/facundorn)
-* Twitter: [@Facundo_97011](https://twitter.com/Facundo_97011)
-* LinkedIn: [Facundo Nuñez](https://www.linkedin.com/in/facundo-nu%C3%B1ez-380b9b234)
-* WhatsApp: [+54 380 4249741](https://wa.me/543804249741)
+* [![](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.instagram.com/facundorn)
+* [![](https://img.icons8.com/color/48/000000/twitter--v1.png)](https://twitter.com/Facundo_97011)
+* [![](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/facundo-nu%C3%B1ez-380b9b234)
+* [![](https://img.icons8.com/color/48/000000/whatsapp.png)](https://wa.me/543804249741)
+* [![](https://img.icons8.com/color/48/000000/gmail-new.png)](mailto:facurael@gmail.com)
