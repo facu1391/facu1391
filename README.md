@@ -53,3 +53,20 @@ Como programador junior, he participado en proyectos fullstack:
     <a href="https://wa.me/543804249741"><img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp"></a>
     <a href="mailto:facurael@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail"></a>
 </div>
+
+<h1 align="center">Conéctate con Nosotros 🤝</h1>
+
+<p align="center">
+    <a href="https:https://www.linkedin.com/in/facundo-nu%C3%B1ez-380b9b234/">
+        <img src="https://img.shields.io/badge/InnovaTeam-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Facundo Nuñez LinkedIn" />
+    </a>
+    <a href="https://www.instagram.com/facundorn/">
+        <img src="https://img.shields.io/badge/InnovaTeam-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Facundo Nuñez Instagram" />
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://www.innovateam.com/">
+        innovateam.com
+    </a>
+</p>
