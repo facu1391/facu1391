@@ -20,6 +20,14 @@ Tengo experiencia en el desarrollo de aplicaciones web, tanto del lado del servi
   
 Soy un apasionado de la tecnología y me encanta estar al tanto de las últimas tendencias en programación. Disfruto trabajar en equipo y compartir mis conocimientos con mis colegas para mejorar la calidad del trabajo.
 
+<p><img align="center" width='100%' src="https://github-readme-streak-stats.herokuapp.com/?user=facu1391&theme=onedark" alt="germantorales" /></p>
+<p align="center">
+ 
+
+ <a href="https://github.com/ryo-ma/github-profile-trophy"></a>
+<img width="100%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=facu1391&row=4&theme=onedark&no-frame=true" />
+<div align="center"><img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=facu1391&show_icons=true&theme=radical&count_private=true&include_all_commits=true"&custom_title="My Stats" align = "center" alt="Github Stats"
+
 # Proyectos
 
 Como programador junior, he participado en proyectos fullstack:
