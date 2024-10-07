@@ -56,10 +56,3 @@ Soy de La Rioja, Argentina, con 2 años de experiencia en desarrollo web full st
     <a href="https://wa.me/543804249741"><img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp"></a>
     <a href="mailto:facurael@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail"></a>
 </p>
-"""
-
-# Save the content to a markdown file
-with open("/mnt/data/facundo_profile.md", "w") as file:
-    file.write(markdown_content)
-
-"/mnt/data/facundo_profile.md"
