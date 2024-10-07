@@ -9,25 +9,6 @@ Soy de La Rioja, Argentina, con 2 años de experiencia en desarrollo web full st
     <img src="https://skillicons.dev/icons?i=typescript,javascript,react,redux,css,sass,html,bootstrap,nodejs,mysql,mongodb,nextjs,express,tailwind" />
 </p>
 
-- **Lenguajes del lado del servidor**:  
-  ![](https://img.icons8.com/color/48/000000/nodejs.png) Node.js  
-  ![](https://img.icons8.com/color/48/000000/python.png) Python
-- **Lenguajes del lado del cliente**:  
-  ![](https://img.icons8.com/color/48/000000/html-5.png) HTML  
-  ![](https://img.icons8.com/color/48/000000/css3.png) CSS  
-  ![](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
-- **Frameworks y herramientas**:  
-  ![](https://img.icons8.com/color/48/000000/tailwind-css.png) Tailwind CSS  
-  ![](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap  
-  ![](https://img.icons8.com/officexs/48/000000/react.png) React.js  
-  ![](https://img.icons8.com/color/48/000000/next-js.png) Next.js  
-  ![](https://img.icons8.com/offices/48/000000/express.png) Express.js  
-  ![](https://img.icons8.com/color/48/000000/astro.png) Astro
-- **Bases de datos**:  
-  ![](https://img.icons8.com/office/40/000000/mysql.png) MySQL  
-  ![](https://img.icons8.com/color/48/000000/mongodb.png) MongoDB  
-  ![](https://img.icons8.com/color/48/000000/firebase.png) Firebase
-
 ## 💼 Experiencia
 
 - **Leadpages - ClinchHR**:  
