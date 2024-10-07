@@ -3,10 +3,10 @@
 ## 🚀 Sobre mí
 Soy de La Rioja, Argentina, con 2 años de experiencia en desarrollo web full stack. Me especializo en crear aplicaciones web únicas, trabajando tanto en el lado del cliente como en el servidor.
 
-## 🛠️ Tecnologías de Desarrollo
+## 🛠️ Habiliades tecnicas
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=typescript,javascript,react,redux,css,sass,html,bootstrap,nodejs,mysql,mongodb,nextjs,express,tailwind" />
+    <img src="https://skillicons.dev/icons?i=typescript,javascript,python,react,redux,css,sass,html,bootstrap,nodejs,mysql,mongodb,nextjs,express,tailwind" />
 </p>
 
 ## 💼 Experiencia
