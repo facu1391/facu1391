@@ -16,12 +16,20 @@ Mi principal objetivo es crear proyectos que no solo sean estéticamente agradab
 
 ## 💼 Experiencia
 
+- **Cofundador - Product Design Me**:  
+  Co-fundé la startup **Product Design Me**, enfocada en ofrecer soluciones innovadoras para el diseño de productos. Formé parte de un equipo de trabajo colaborativo. Nos centramos en brindar soluciones personalizadas que se ajusten a las necesidades específicas de cada cliente, buscando siempre la excelencia en los resultados.
+
+- **Hackathon Justina.io - No Country**:  
+  Participé en el **Hackathon de No Country** organizado por **Justina.io**, donde el objetivo principal fue mejorar la plataforma para los usuarios. Trabajé en un equipo multidisciplinario, proponiendo soluciones para optimizar la interfaz y la experiencia de usuario, lo que resultó en una plataforma más accesible y eficiente para el público.
+
 - **Leadpages - ClinchHR**:  
-  Trabajé como freelance en ClinchHR, ocupando un rol en el frontend dentro de un equipo completo.
+  Trabajé como freelance en **ClinchHR**, ocupando un rol clave en el frontend. Colaboré dentro de un equipo completo, implementando nuevas funcionalidades y optimizando la performance de la aplicación para ofrecer una mejor experiencia a los usuarios.
+
 - **ChatBeat - No Country**:  
-  Colaboré en un equipo multidisciplinario con roles de backend, frontend, diseño UI/UX, QA y Project Manager.
+  Colaboré en un equipo multidisciplinario en **ChatBeat**, un proyecto de **No Country**. Participé en el desarrollo del frontend y trabajé de la mano con backend, diseñadores UI/UX, QA y el Project Manager, enfocándome en mejorar la interacción y usabilidad del producto final.
+
 - **Proyecto personal - Gestión de Pacientes Veterinaria**:  
-  Desarrollé una aplicación para administrar pacientes en una veterinaria.
+  Desarrollé una aplicación de **Gestión de Pacientes Veterinaria**, que permite administrar de manera eficaz los historiales médicos, citas y tratamientos. Este proyecto fue un reto personal en el que trabajé tanto en el frontend como en el backend, buscando optimizar la experiencia del usuario y mejorar la productividad del personal veterinario.
 
 ## 📊 Estadísticas de GitHub
 
