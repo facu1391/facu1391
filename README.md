@@ -7,6 +7,12 @@ Soy de La Rioja, Argentina. Tengo 2 años de experiencia como Desarrollador Web 
 
 Tengo experiencia en el desarrollo de aplicaciones web, tanto del lado del servidor como del cliente, y he trabajado con varias tecnologías y lenguajes de programación, incluyendo:
 
+<h1 align="center">🛠️ Nuestras Tecnologías de Desarrollo 🛠️</h1>
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=typescript,javascript,react,redux,css,sass,html,bootstrap,nodejs,mysql,mongodb,nextjs,express,tailwind" />
+</p>
+
 * Lenguajes del lado del servidor: Node.js, Python.
    - ![](https://img.icons8.com/color/48/000000/nodejs.png) ![](https://img.icons8.com/color/48/000000/python.png)
 * Lenguajes del lado del cliente: HTML, CSS, JavaScript.
