@@ -1,7 +1,12 @@
 # ¡Hola! Soy **Facundo Rafael Núñez**, Desarrollador Web Full Stack.
 
 ## 🚀 Sobre mí
-Soy de La Rioja, Argentina, con 2 años de experiencia en desarrollo web full stack. Me especializo en crear aplicaciones web únicas, trabajando tanto en el lado del cliente como en el servidor.
+
+Soy **Desarrollador de Software** con +2 años de experiencia creando aplicaciones web modernas, optimizadas y visualmente atractivas. Me destaco en el uso de tecnologías como **JavaScript**, **TypeScript**, **React**, **Next.js**, entre otras, tanto en el frontend como en el backend.
+
+Como profesional, me considero una persona empática, que disfruta del trabajo en equipo, aprendiendo de cada miembro y compartiendo ideas. Me motiva colaborar activamente en proyectos donde la experiencia de usuario sea satisfactoria y eficiente.
+
+Mi objetivo es crear soluciones digitales visualmente atractivas, asegurándome de que cada usuario tenga una experiencia fluida y agradable al utilizar las aplicaciones que desarrollo.
 
 ## 🛠️ Habiliades tecnicas
 
