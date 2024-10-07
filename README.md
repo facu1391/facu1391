@@ -4,9 +4,9 @@
 
 Soy **Desarrollador de Software** con +2 años de experiencia creando aplicaciones web modernas, optimizadas y visualmente atractivas. Me destaco en el uso de tecnologías como **JavaScript**, **TypeScript**, **React**, **Next.js**, entre otras, tanto en el frontend como en el backend.
 
-Como profesional, me considero una persona empática, que disfruta del trabajo en equipo, aprendiendo de cada miembro y compartiendo ideas. Me motiva colaborar activamente en proyectos donde la experiencia de usuario sea satisfactoria y eficiente.
+Como profesional, me considero una persona empática, que disfruta del trabajo en equipo y de aprender de cada uno de mis compañeros. Me apasiona compartir ideas, colaborar con otros y contribuir al crecimiento mutuo dentro del entorno de trabajo.
 
-Mi objetivo es crear soluciones digitales visualmente atractivas, asegurándome de que cada usuario tenga una experiencia fluida y agradable al utilizar las aplicaciones que desarrollo.
+Mi principal objetivo es crear proyectos que no solo sean estéticamente agradables, sino que también ofrezcan una excelente experiencia de usuario. Me esfuerzo por asegurar que cada interacción del usuario sea intuitiva y satisfactoria, con el fin de que la tecnología que desarrollamos no solo funcione bien, sino que también genere un impacto positivo en quienes la usan.
 
 ## 🛠️ Habiliades tecnicas
 
