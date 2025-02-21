@@ -16,8 +16,8 @@ Mi principal objetivo es crear proyectos que no solo sean estéticamente agradab
 
 ## 💼 Experiencia
 
-- **Cofundador - Product Design Me**:  
-  Co-fundé la startup **Product Design Me**, enfocada en ofrecer soluciones innovadoras para el diseño de productos. Formé parte de un equipo de trabajo colaborativo. Nos centramos en brindar soluciones personalizadas que se ajusten a las necesidades específicas de cada cliente, buscando siempre la excelencia en los resultados.
+- **Cofundador - Atomicat*:  
+  Co-fundé la startup **ATOMICAT**, enfocada en ofrecer soluciones innovadoras para el diseño de productos. Formé parte de un equipo de trabajo colaborativo. Nos centramos en brindar soluciones personalizadas que se ajusten a las necesidades específicas de cada cliente, buscando siempre la excelencia en los resultados.
 
 - **Hackathon Justina.io - No Country**:  
   Participé en el **Hackathon de No Country** organizado por **Justina.io**, donde el objetivo principal fue mejorar la plataforma para los usuarios. Trabajé en un equipo multidisciplinario, proponiendo soluciones para optimizar la interfaz y la experiencia de usuario, lo que resultó en una plataforma más accesible y eficiente para el público.
